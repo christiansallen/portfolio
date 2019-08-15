@@ -4,6 +4,7 @@ import TopSection from "./TopSection/TopSection";
 import MiddleSection1 from "./MiddleSection/MiddleSection1";
 import TopBar from "./TopBar/TopBar.js";
 import BottomSection from "./BottomSection/BottomSection.js";
+import AboutMe from "./AboutMe/AboutMe.js";
 
 class App extends Component {
   render() {
@@ -12,6 +13,7 @@ class App extends Component {
         <TopBar />
         <TopSection />
         <MiddleSection1 />
+        <AboutMe />
         <BottomSection />
       </div>
     );

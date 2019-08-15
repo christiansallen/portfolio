@@ -3,8 +3,8 @@ import Project from "./Project";
 import WOW from "wowjs";
 
 import moviesdb from "../images/moviesdb.jpg";
-import deckandrail from "../images/deckandrail.jpg";
 import watermyplants from "../images/watermyplants.jpg";
+import projectfirefly from "../images/ProjectFirefly.png";
 
 class MiddleSection1 extends Component {
   constructor(props) {
@@ -35,6 +35,7 @@ class MiddleSection1 extends Component {
               name="Movies DB"
               type="Front/Back End Development"
               img={moviesdb}
+              tech="React, Redux, Javascript, HTML, CSS"
             />
           </div>
 
@@ -42,13 +43,14 @@ class MiddleSection1 extends Component {
             className="tile wow fadeInLeft"
             data-wow-delay="0.7s"
             onClick={() =>
-              this.projectLink("https://deckandrailvisualizer.netlify.com/")
+              this.projectLink("https://projectfirefly-staging.netlify.com/")
             }
           >
             <Project
-              name="Deck Visualizer"
-              type="Front End Development"
-              img={deckandrail}
+              name="Project Firefly"
+              type="Front/Back End Development"
+              img={projectfirefly}
+              tech="React Hooks, Firebase, Javascript, HTML, SASS"
             />
           </div>
 
@@ -56,13 +58,14 @@ class MiddleSection1 extends Component {
             className="tile wow fadeInLeft"
             data-wow-delay="0.5s"
             onClick={() =>
-              this.projectLink("https://water-my-plants.netlify.com/")
+              this.projectLink("https://water-my-plants.netlify.com/login")
             }
           >
             <Project
               name="Water My Plants"
               type="Back End Development"
               img={watermyplants}
+              tech="Node.js, Express, PostgreSQL, JEST"
             />
           </div>
         </div>
