@@ -1,6 +1,6 @@
 import React from "react";
 
-import profile from "./../images/profile.png";
+import profile from "./../images/profile2.png";
 import "./../css/App.css";
 
 const AboutMe = () => {
@@ -27,7 +27,10 @@ const AboutMe = () => {
           <p>
             If your company is looking for a software engineer with the
             languages and libraries I've listed above, please feel free to
-            contact me at: christiansallen@gmail.com
+            contact me at:{" "}
+            <a className="inline-email" href="mailto:christiansallen@gmail.com">
+              christiansallen@gmail.com
+            </a>
           </p>
         </div>
       </div>
