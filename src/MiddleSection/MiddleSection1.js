@@ -69,7 +69,7 @@ class MiddleSection1 extends Component {
 
           <div className="tile-and-github">
             <a
-              href="https://projectfirefly-staging.netlify.com/"
+              href="https://projectfirefly.netlify.com/"
               target="_blank"
               className="tile-link"
             >
