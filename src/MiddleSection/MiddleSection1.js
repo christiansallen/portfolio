@@ -104,7 +104,7 @@ class MiddleSection1 extends Component {
 
           <div className="tile-and-github">
             <a
-              href="https://water-my-plants.netlify.com/login"
+              href="https://water-my-plants.netlify.com/"
               target="_blank"
               className="tile-link"
             >
