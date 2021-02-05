@@ -1,4 +1,4 @@
-import React, { Component } from "react"; 
+import React, { Component } from "react";
 import "./css/App.css";
 import TopSection from "./TopSection/TopSection";
 import MiddleSection1 from "./MiddleSection/MiddleSection1";
