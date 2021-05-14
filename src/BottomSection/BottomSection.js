@@ -11,7 +11,7 @@ const BottomBar = () => {
     <div className="bottom-bar">
       <div className="bottom-bar-items">
         <div className="bottom-bar-left">
-          <p className="bottom-bar-logo">2019 © Christian Allen</p>
+          <p className="bottom-bar-logo">2021 © Christian Allen</p>
         </div>
         <div className="bottom-bar-middle">
           <div className="icons">

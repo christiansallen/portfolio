@@ -13,15 +13,9 @@ const AboutMe = () => {
         </div>
         <div className="about-me-text">
           <p>
-            I am currently a full-stack web development student at Lambda
-            School. I have experience in languages and libraries such as: HTML,
-            CSS, Javascript, React/Redux, Hooks, Node.js, Express, SQL,
-            Firebase, and Git.
-          </p>
-
-          <p>
-            I'm currently looking for a software engineering position at a
-            company where I can contribute and continue to learn.
+            I am currently a software engineer at Rock Solid Internet Systems. I have experience in languages and libraries such as: HTML,
+            CSS, Javascript, React, Redux, PHP, Node.js, Express, MySQL, and
+            Firebase.
           </p>
 
           <p>
