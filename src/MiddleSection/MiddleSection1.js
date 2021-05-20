@@ -3,7 +3,7 @@ import Project from "./Project";
 import WOW from "wowjs";
 
 import moviesdb from "../images/moviesdb.jpg";
-import watermyplants from "../images/watermyplants.jpg";
+import housingprices from '../images/housingprices.png';
 import projectfirefly from "../images/ProjectFirefly.png";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -116,16 +116,16 @@ class MiddleSection1 extends Component {
                 // }
               >
                 <Project
-                  name="Water My Plants"
-                  type="Back End Development"
-                  img={watermyplants}
-                  tech="Node.js, Express, PostgreSQL, JEST"
+                  name="Housing Prices"
+                  type="Front End Development"
+                  img={housingprices}
+                  tech="HTML, MUI, React Hooks, recharts"
                 />
               </div>
             </a>
 
             <a
-              href="https://github.com/team-watermyplants"
+              href="https://github.com/sentreliz/housing-app"
               target="_blank"
               className="github-link"
             >

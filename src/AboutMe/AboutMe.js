@@ -14,8 +14,7 @@ const AboutMe = () => {
         <div className="about-me-text">
           <p>
             I am currently a software engineer at Rock Solid Internet Systems. I have experience in languages and libraries such as: HTML,
-            CSS, Javascript, React, Redux, PHP, Node.js, Express, MySQL, and
-            Firebase.
+            CSS, MUI, Bootstrap, Javascript, React, Redux, PHP, Node.js, Express, and MySQL.
           </p>
 
           <p>
